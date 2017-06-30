@@ -20,7 +20,7 @@ restService.use(bodyParser.urlencoded({
 }));
 
 restService.use(bodyParser.json());
-restService.post('/reply', function(req, res) {
+restService.post('/reply', function(req, res)) {
     var action = req.body.result.action;
     // The text to analyze
     var text = 'Hello, world!';
