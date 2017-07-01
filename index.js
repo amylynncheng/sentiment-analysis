@@ -47,4 +47,4 @@ restService.post('/reply', function(req, res) {
         displayText: output,
         source: "sentiment-analysis"
     });
-}
+)}
