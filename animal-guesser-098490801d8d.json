@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "animal-guesser-76145",
+  "private_key_id": "098490801d8d79d931e5129e3e3c6f24b967b061",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCe3HkXiLqvR9Hm\nEkBL2plahohsuaIGZG91GgYGWQno5qwQmCsHzjhiKc1yqBfm/TvYvBH1Yavbagt5\nnrAEOha/jV7rbBsOpmZANx4OPyzru5F6KV02bbp7xFuN7nZOI7Wc6RVEBizN4Zfg\nIENphfAddDas092g8KU3EiLtGC1t99N9XDiPmtZB4pOF07TYhvIC4SNn/LfDpY1A\nN0SmPb9Oio4dbOCk5gv2RbUoRl/SiuK0tuOSM+DnHC3Qzt9IbSbnIzoosG3pEEXU\n0+DvuGneTUKA0xWBxGJ+iMWgA5L1FJHojxsd8sqPDJ/tRQbidziaF9x5y8lA8/Sx\nYhYbaAC5AgMBAAECggEAFEt9StTkaKUnuxlEzowAQHDkd+NlQCTPmmm3MFNqsS7a\n94nBIY+mY2AMx6OS3icm4KLyNmOCdZcAHUr5GKklI9aXNENM15vJf1WrSM2oWvtM\n9ArZxizRgKNOwPygb44fUwrx9Q1G5wx1fyQQCKicSt8AZybv7vIfYUA3ZwvKLfyi\nAMvD7h7TRVGYCj/wV6dpoDGFK+431eNtEBClVit14jOhzfpUK0ai0ilHUme1JK4e\n2Vzowd9rrTonHyneO5YkqwO+bmvoPvc1SokAxYTsCle/40yjhc95JBS6Il7pIN4W\n6cnkDMYuIeXHtjmlyKJXGI8CteaSeTDDexNTIzZqaQKBgQDZ/Fh3mQc0HuNqnI7v\nf9ewGqw/3c6cofih4I8vnpbcSmoFF65xcKnOmj/9e8E11OtoTSM7vdIJsSvJWfuo\nc/smDsj0e59xm4/6RndGoK8vMj12ywjXdv/55054/6eoTHMXsL4HW2IRRLJ1RSl8\npHP4hJ1MFvHTT4Xdr7tJtBl5XQKBgQC6kJmxZ0H/e1IKidc2lTfFpErNBZbh/xnZ\nVXvLnzG3gEgZzD24EGvQPScL0HJIHJ6HhbeUPKRTyg5JDuGafqMCYmhDMb3nl1gj\n/4vRh2HaTYa3FbzTJh4qr/fN+fYkutj65u7g89T8++VoX+/BJg1o79n0LLEw6q5D\npxsWv6fDDQKBgAG6xtjsFeqL9DH8XAX6dbOoAoXfNKx5fIeMSJaQI5JL5Nt1fKTZ\nx/8jqi5QtQ/ASL3jHsxyjSAWj8phNGX5xZxfsah+8pzsJxBNTtT4oWs2ctZmdgN/\npjhNZYoAPUxQjvk5JcjZKMYKTYAwtEuQ4nquUrEv3WtXzjAcHNhQ3YLhAoGBALCn\nENB5LHXj6EgQQtbtLdUX/rfpDfhKG8i9d63TvDi74AmFaf9qlRule95k7oE3kChU\nxgI39YVdMm+dBqPKO0Gbuou9gsrSdGQJqfOpVE9nzyJ3E8d/NVtIKcVAZQBcZ+4T\nUqdwWgF95rgQ9y0VgecWDXN2CgV+gamPhkfhC9HVAoGBAMVUalWzv8ruPINODC1s\nEieDv41wwjWpkT1Hnva3ONbJgPHerqfbfw2WY0n+NkWQUHSjp1QGCt425LxTP6eb\nLWt/iuzrQg/JPJMYyP2xjWK30cEDQbgzrgexPLOfEGxHWasSRZfGScLL1uLJAeqY\nQHRpvJDo/x0YMxC0TtIGzfsz\n-----END PRIVATE KEY-----\n",
+  "client_email": "sentiment-analysis@animal-guesser-76145.iam.gserviceaccount.com",
+  "client_id": "112526966992071231790",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sentiment-analysis%40animal-guesser-76145.iam.gserviceaccount.com"
+}
