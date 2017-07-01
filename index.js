@@ -47,4 +47,8 @@ restService.post('/reply', function(req, res) {
         displayText: output,
         source: "sentiment-analysis"
     });
-)}
+});
+
+restService.listen((process.env.PORT || 8080), function() {
+    console.log("Server up and running");
+});
